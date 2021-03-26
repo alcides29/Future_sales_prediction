@@ -1,4 +1,4 @@
-# Future_sales_prediction
+# Future Sales Prediction
 
 This challenge serves as final project for the "How to win a data science competition" Coursera course.
 
