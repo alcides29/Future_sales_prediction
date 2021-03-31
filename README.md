@@ -21,6 +21,6 @@ You are provided with daily historical sales data. Note that the list of shops a
 * **item_categories.csv** - supplemental information about the items categories.
 * **shops.csv** - supplemental information about the shops.
 
-The datasets can be found on the dataset folder. The *sales_train.csv* can be found on [here](https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data) from Kaggle.
+The datasets can be found on the dataset folder. The *sales_train.csv* can be found [here](https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data) from Kaggle.
 
-For more information this is the [kaggle competition](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
+For more information, you can visit the [kaggle competition](https://www.kaggle.com/c/competitive-data-science-predict-future-sales) website.
